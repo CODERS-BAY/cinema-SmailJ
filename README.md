@@ -33,4 +33,4 @@ Actor (AID: int, LName: varchar, Nation: varchar, BD: date, DD: date, Comment: v
 
 Director (DName: int)
 
-![Photo](photo.jpg)
+![Photo](photo1.jpg)
