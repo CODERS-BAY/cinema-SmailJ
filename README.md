@@ -17,6 +17,8 @@ Cinema (CID: int, Name: varchar, Address: varchar, Halls: int)
 
 Hall (HID: int, Rows: int, Seats: int)
 
+Seat Plan (ID: int, SID)
+
 Seat (SID: int)
 
 Box (RowID: int)
